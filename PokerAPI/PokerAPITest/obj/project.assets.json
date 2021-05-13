@@ -4642,25 +4642,27 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\v-mikefre\\.nuget\\packages\\": {},
+    "C:\\Users\\Michael Fredricksen\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
-    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\test\\Dev Backups\\Projects\\PokerAPI\\PokerAPITest\\PokerAPITest.csproj",
+      "projectUniqueName": "C:\\Projects\\DrawPoker\\PokerAPI\\PokerAPITest\\PokerAPITest.csproj",
       "projectName": "PokerAPITest",
-      "projectPath": "C:\\test\\Dev Backups\\Projects\\PokerAPI\\PokerAPITest\\PokerAPITest.csproj",
-      "packagesPath": "C:\\Users\\v-mikefre\\.nuget\\packages\\",
-      "outputPath": "C:\\test\\Dev Backups\\Projects\\PokerAPI\\PokerAPITest\\obj\\",
+      "projectPath": "C:\\Projects\\DrawPoker\\PokerAPI\\PokerAPITest\\PokerAPITest.csproj",
+      "packagesPath": "C:\\Users\\Michael Fredricksen\\.nuget\\packages\\",
+      "outputPath": "C:\\Projects\\DrawPoker\\PokerAPI\\PokerAPITest\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\",
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\v-mikefre\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Michael Fredricksen\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
@@ -4670,15 +4672,14 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "https://api.nuget.org/v3/index.json": {},
-        "https://nuget.org": {}
+        "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\test\\Dev Backups\\Projects\\PokerAPI\\PokerAPI\\PokerAPI.csproj": {
-              "projectPath": "C:\\test\\Dev Backups\\Projects\\PokerAPI\\PokerAPI\\PokerAPI.csproj"
+            "C:\\Projects\\DrawPoker\\PokerAPI\\PokerAPI\\PokerAPI.csproj": {
+              "projectPath": "C:\\Projects\\DrawPoker\\PokerAPI\\PokerAPI\\PokerAPI.csproj"
             }
           }
         }
@@ -4721,7 +4722,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.203\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
       }
     }
   }

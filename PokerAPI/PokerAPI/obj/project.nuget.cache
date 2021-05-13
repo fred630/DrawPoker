@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "PHAccZUPsjQ1AO3K3NoUsXxBWRf/cbRZ7TLUxCukkLBBZexGFYklWmbaf4KSyffFg1m1kI1y3aa7ftFjZdLNfw==",
+  "dgSpecHash": "z3hUSUxwvC5sglIvKf+trpwhJ34Bld3mJQPgMFcPYXZL5EvZN/D749p7niOqMB+CjwlZy345eYCJVlmQUETh/A==",
   "success": true,
-  "projectFilePath": "C:\\test\\Dev Backups\\Projects\\PokerAPI\\PokerAPI\\PokerAPI.csproj",
+  "projectFilePath": "C:\\Projects\\DrawPoker\\PokerAPI\\PokerAPI\\PokerAPI.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
